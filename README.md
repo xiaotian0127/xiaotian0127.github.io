@@ -30,9 +30,11 @@
 
 引用：
 >test1
+>
 >test2
 
 整行code：
+
     hello
     ptint
 
@@ -69,11 +71,9 @@ hi
 
 有序列表：
 
-1.一个
-
-2.二个
-
-3.三个
+1. 一个
+2. 二个
+3. 三个
 
 
 [Baidu]:http://www.baidu.com
