@@ -1,11 +1,14 @@
 # 晓天居
 
 
-[My blog](# my-blog)
-[code测试]（# code测试）
+- [晓天居](#晓天居)
+  - [My blog)(#my-blog)
+  - [code](#code)
+  - [链接](#链接)
+  - [表格](#表格)
+  - [列表](#列表)
 
-
-
+~~₽Y6EwXVev1₣~~
 
 ## My blog
 
@@ -14,7 +17,7 @@
 ---
 这是一个测试页面,~~test~~
 
-## code测试
+## code
 
 可以使用`code`
 
@@ -37,10 +40,21 @@ hi
 [Google](http://www.google.com)
 [Baidu]
 
-表格test：
+## 表格：
+
 |1 |2|3|
 |:---|:---:|---:|
 |一|二|三|
+
+## 列表
+
+- 列表1
+- 列表2
+- 列表3
+
+1.一个
+2.二个
+3.三个
 
 
 [Baidu]:http://www.baidu.com
