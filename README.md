@@ -21,11 +21,11 @@ hi
 ```
 <https://www.appinn.com/markdown>
 
-[Google](www.google.com)
+[Google](http://www.google.com)
 [Baidu]
 
 
 
-[Baidu]:(www.baidu.com)
+[Baidu]:http://www.baidu.com
 
 
