@@ -23,6 +23,7 @@
 [山东省基础教育学籍平台](http://sdbe.sdei.edu.cn/zxxj/uc/login.htm)
 
 [齐鲁教师网](http://www.qlteacher.com/)
+
 ## 在线网络工具)
 
 [潍坊公共信息平台](http://218.59.136.120/)
@@ -75,13 +76,10 @@
 
 [图片自动上色](https://palette.fm/)
 
-
-
-
-
 ## 在线学习资料
 
 **Linux资料**
+
 [Debian系统学习](https://www.debian.org/doc/manuals/debian-reference/ch01.zh-cn.html)
 
 [Linux系统学习RedHat](https://linux.vbird.org/)
