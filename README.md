@@ -70,3 +70,5 @@
 [Openwrt介绍](https://icyleaf.com/2023/04/how-to-homelab-part-2-openwrt-soft-router/)
 
 [激活系统及office](http://wind4.github.io/vlmcsd/)
+
+[Debian升级最新版](https://u.sb/debian-upgrade-12/)
