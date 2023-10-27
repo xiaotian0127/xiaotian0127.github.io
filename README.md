@@ -86,6 +86,8 @@
 
 [图片自动上色](https://palette.fm/)
 
+[图片去背景](https://www.remove.bg/zh)
+
 ## 在线学习资料
 
 [Debian系统学习](https://www.debian.org/doc/manuals/debian-reference/ch01.zh-cn.html)
