@@ -20,7 +20,7 @@
 
 [潍坊安全教育平台](http://weifang.xueanquan.com/)
 
-[山东省基础教育学籍平台](http://sdbe.sdei.edu.cn/zxxj/uc/login.htm
+[山东省基础教育学籍平台](http://sdbe.sdei.edu.cn/zxxj/uc/login.htm)
 
 [齐鲁教师网](http://www.qlteacher.com/)
 ## 在线网络工具)
@@ -67,7 +67,7 @@
 
 [普法网平台](https://qspfw.moe.gov.cn/index.html)
 
-［潍坊市中小学公共信息平台］(http://218.59.142.113:8085/)
+[潍坊市中小学公共信息平台](http://218.59.142.113:8085/)
 
 **常用在线平台**
 
