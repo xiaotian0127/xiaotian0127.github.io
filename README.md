@@ -2,13 +2,25 @@
 
 ## 学校网络平台
 
-**相州小学网络编程平台**
+##网络编程平台
 
-[相州小学编程猫平台信息](https://xiaotian0127.github.io/codemao)
+[编程猫平台信息](https://xiaotian0127.github.io/codemao)
 
-[相州小学羚羊创课平台信息](https://xiaotian0127.github.io/leadersir)
+[羚羊创课平台信息](https://xiaotian0127.github.io/leadersir)
 
 [潍坊市师德管理系统](http://218.59.142.113:8086/admin/School/index.aspx)
+
+## 人工智能平台
+
+[OpenAI的ChatGPT4大模型](https://chat.openai.com/)
+
+[谷歌的Bard大模型](https://bard.google.com/chat)
+
+[百度的文心一言大模型](https://yiyan.baidu.com/)
+
+[阿里的通义千问大模型](https://qianwen.aliyun.com/)
+
+## 在线网络平台
 
 [教育统计系统](https://www.tjxt.moe.edu.cn:8000/#/)
 
@@ -23,8 +35,6 @@
 [山东省基础教育学籍平台](http://sdbe.sdei.edu.cn/zxxj/uc/login.htm)
 
 [齐鲁教师网](http://www.qlteacher.com/)
-
-## 在线网络工具
 
 [潍坊公共信息平台](http://218.59.136.120/)
 
@@ -70,15 +80,13 @@
 
 [潍坊市中小学公共信息平台](http://218.59.142.113:8085/)
 
-**常用在线平台**
+## 常用网络工具
 
 [在线Markdown编辑器](https://dillinger.io)
 
 [图片自动上色](https://palette.fm/)
 
 ## 在线学习资料
-
-**Linux资料**
 
 [Debian系统学习](https://www.debian.org/doc/manuals/debian-reference/ch01.zh-cn.html)
 
@@ -92,6 +100,8 @@
 
 [cs自学教程](https://csdiy.wiki/)
 
+**人工智能资料**
+
 [learnprompt提示词学习](https://learnprompting.org/)
 
 [learnprompt提示词学习](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
@@ -100,19 +110,7 @@
 
 [提示词学习](https://openai.wiki/chatgpt-prompting-guide-book.html)
 
-**人工智能平台**
-
-[OpenAI的ChatGPT4大模型](https://chat.openai.com/)
-
-[谷歌的Bard大模型](https://bard.google.com/chat)
-
-[百度的文心一言大模型](https://yiyan.baidu.com/)
-
-[阿里的通义千问大模型](https://qianwen.aliyun.com/)
-
-**人工智能资料**
-
-## 其他在线资料备份
+## 其他资料备份
 
 [Openwrt介绍](https://icyleaf.com/2023/04/how-to-homelab-part-2-openwrt-soft-router/)
 
