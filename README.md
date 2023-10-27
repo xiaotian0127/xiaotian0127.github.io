@@ -8,8 +8,6 @@
 
 [羚羊创课平台信息](https://xiaotian0127.github.io/leadersir)
 
-[潍坊市师德管理系统](http://218.59.142.113:8086/admin/School/index.aspx)
-
 ## 人工智能平台
 
 [OpenAI的ChatGPT4大模型](https://chat.openai.com/)
@@ -21,6 +19,8 @@
 [阿里的通义千问大模型](https://qianwen.aliyun.com/)
 
 ## 在线网络平台
+
+[潍坊市师德管理系统](http://218.59.142.113:8086/admin/School/index.aspx)
 
 [教育统计系统](https://www.tjxt.moe.edu.cn:8000/#/)
 
