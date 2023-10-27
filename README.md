@@ -37,8 +37,7 @@
 
 [Linux系统学习RedHat](https://linux.vbird.org/)
 
-[Ubuntu教程]
-(https://yiduhkk.com/art_7827_412.html)
+[Ubuntu教程](https://yiduhkk.com/art_7827_412.html)
 
 [Git 使用教程](https://www.liaoxuefeng.com/wiki/896043488029600)
 
