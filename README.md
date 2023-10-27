@@ -2,7 +2,7 @@
 
 ## 学校网络平台
 
-##网络编程平台
+## 网络编程平台
 
 [编程猫平台信息](https://xiaotian0127.github.io/codemao)
 
