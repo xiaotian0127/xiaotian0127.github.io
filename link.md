@@ -48,6 +48,8 @@
 
 [提示词学习](https://openai.wiki/chatgpt-prompting-guide-book.html)
 
+[提示词学习翻译版](https://futureforce.feishu.cn/file/CMpdbLxAhon5K5x5C1OcciYwnOf)
+
 ## 其他资料备份
 
 [Openwrt介绍](https://icyleaf.com/2023/04/how-to-homelab-part-2-openwrt-soft-router/)
