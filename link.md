@@ -50,6 +50,10 @@
 
 [提示词学习翻译版](https://futureforce.feishu.cn/file/CMpdbLxAhon5K5x5C1OcciYwnOf)
 
+[GPT最佳实践上](https://mp.weixin.qq.com/s/M6SUIObOJWzAXCNMMoQ5GA)
+
+[GPT最佳实践下](https://mp.weixin.qq.com/s/urJFADEcICxOpekFP4_wjg)
+
 ## 其他资料备份
 
 [Openwrt介绍](https://icyleaf.com/2023/04/how-to-homelab-part-2-openwrt-soft-router/)
