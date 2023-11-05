@@ -61,3 +61,5 @@
 [激活系统及office](http://wind4.github.io/vlmcsd/)
 
 [Debian升级最新版](https://u.sb/debian-upgrade-12/)
+
+[excel函数教程](https://www.yuque.com/94benyi/funeng)
