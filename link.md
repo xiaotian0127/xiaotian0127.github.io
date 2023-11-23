@@ -38,6 +38,8 @@
 
 [Git 使用教程](https://www.liaoxuefeng.com/wiki/896043488029600)
 
+[Python 3教程](https://www.runoob.com/python3/python3-tutorial.html)
+
 **人工智能资料**
 
 [learnprompt提示词学习](https://learnprompting.org/)
