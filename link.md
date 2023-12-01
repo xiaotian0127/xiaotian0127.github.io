@@ -65,3 +65,5 @@
 [Debian升级最新版](https://u.sb/debian-upgrade-12/)
 
 [excel函数教程](https://www.yuque.com/94benyi/funeng)
+
+[在忙碌中重拾学习](https://sspai.com/post/83231?utm_source=wechat&utm_medium=social)
