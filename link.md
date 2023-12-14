@@ -67,3 +67,11 @@
 [excel函数教程](https://www.yuque.com/94benyi/funeng)
 
 [在忙碌中重拾学习](https://sspai.com/post/83231?utm_source=wechat&utm_medium=social)
+
+[综合类搜索导航Anywhere Anything](http://lackar.com/aa/)
+
+[虫部落快搜](http://search.chongbuluo.com/)
+
+[EGOUS](http://www.egouz.com/)
+
+[万花筒导航](https://wht.im/)
