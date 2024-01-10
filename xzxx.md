@@ -10,6 +10,14 @@
 
 >羚羊创客访问地址及学生账号
 
+[打字练习平台](https://www.typingclub.com/da-zi)
+
+>基础打字练习网页版
+
+[打字提高平台](https://dazidazi.com/)
+
+>打字提高平台网页版
+
 ## 人工智能平台
 
 [百度的文心一言大模型](https://yiyan.baidu.com/)
