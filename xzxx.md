@@ -132,11 +132,11 @@
 
 >学生自主管理平台，主要用于学校的学生资助管理
 
-[教育统计系统](https://www.tjxt.moe.edu.cn:8000/#/)
+[教育统计系统](https://tjxt.moe.edu.cn:8000/#/)
 
 >教育统计系统，主要用于教育系统的统计报送
 
-[山东教育财务管理](http://jyzj.sdei.edu.cn/zjjg0/login/login_toIndex)
+[山东教育财务管理](http://jyzj.sdei.edu.cn/zjjg1/login/login_toIndex)
 
 >山东教育财务管理
 
